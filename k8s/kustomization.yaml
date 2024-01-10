@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: ansu0122/hello-gitops
-  newTag: 1408995a515b3a1c6d4ff8c575197b3ab1dd08bf
+  newTag: 787c95d6d83d1829d91cbe91f2e4b9ee6a63a1e5
